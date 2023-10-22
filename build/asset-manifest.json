@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c97faf62.css",
+    "main.js": "/static/js/main.4b8038a4.js",
+    "static/media/Bulls_Cows.jpeg": "/static/media/Bulls_Cows.cda3853cb3ebcac2ccfe.jpeg",
+    "static/media/avatar.jpg": "/static/media/avatar.fd479590423ba1cafc70.jpg",
+    "static/media/e-commerce.png": "/static/media/e-commerce.c2b075c4de2fa17c9442.png",
+    "static/media/cv.pdf": "/static/media/cv.ea9366cd67a5c88ef113.pdf",
+    "index.html": "/index.html",
+    "main.c97faf62.css.map": "/static/css/main.c97faf62.css.map",
+    "main.4b8038a4.js.map": "/static/js/main.4b8038a4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c97faf62.css",
+    "static/js/main.4b8038a4.js"
+  ]
+}
