@@ -5,6 +5,7 @@ import Navigation from "./components/Navigation/Navigation";
 import Process from "./components/Process/Process";
 import Summery from "./components/Summery/Summery";
 import Projects from "./components/Projects/Projects";
+import Carrer from "./components/Carrer/Carrer";
 
 
 const App = () => {
@@ -16,6 +17,7 @@ const App = () => {
    <Languages />
    <Process />
    <Projects />
+   <Carrer/>
    </div>
    </>
   )
