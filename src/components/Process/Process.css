@@ -47,7 +47,7 @@
 }
 
 /* Responsive */
-@media (max-width: 5000px) {
+@media (max-width: 500px) {
     .process-container {
         grid-template-columns: 1fr;
     }
