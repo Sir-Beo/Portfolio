@@ -30,7 +30,7 @@ contents: ["Coolect Informations", "Personas", "Setup Goals", "Project Folder + 
  ] 
  
  return (
- <section id="process">
+ <section id="process" data-aos="fade">
   <div className="process-heading">
     <h3>Process</h3>
   </div>

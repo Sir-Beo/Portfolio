@@ -30,7 +30,7 @@ const Carrer = () => {
   return (
   <section id="carrer">
     <div className="carrer-education">
-      <div className="carrer">
+      <div className="carrer" data-aos="fade-right">
         <h3>Carrer</h3>
 
         <div className="c-b-container">
@@ -46,7 +46,7 @@ const Carrer = () => {
         </div>
       </div>
 
-      <div className="carrer edu">
+      <div className="carrer edu" data-aos="fade-left">
         <h3>Education</h3>
 
 <div className="c-b-container">

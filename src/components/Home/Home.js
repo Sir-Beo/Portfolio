@@ -4,14 +4,14 @@ import Avatar from "../../assets/images/avatar.jpg";
 const Home = () => {
   return (
     <section id="home">
-    <div className="home-text">
+    <div className="home-text" data-aos="fade-down">
       <strong>Hello, it's me</strong>
       <h1>Sir Beo</h1>
       <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia facilis quos, quo eveniet explicabo consequatur sunt, optio rem ad fugit inventore? Corporis obcaecati quis unde repudiandae ab quam excepturi commodi.</p>
       <a href="#summery" className="btn-link">Scroll For Me</a>
     </div>
 
-    <div className="home-img">
+    <div className="home-img" data-aos="fade-up">
       <div className="img-box">
         <img src={Avatar} alt="Avatar" />
 
